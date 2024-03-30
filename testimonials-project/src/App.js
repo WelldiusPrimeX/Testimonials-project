@@ -1,8 +1,9 @@
+import Testimonials from "./Testimonials";
 
-
-function App() {
+const App = () => {
   return (
     <>
+    <Testimonials/>
     </>
   );
 }
